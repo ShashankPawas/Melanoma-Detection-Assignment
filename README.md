@@ -20,9 +20,10 @@ The data set contains the following diseases:
 
 
 The data set contains the following diseases:
-
+### Train Dataset
 ![Train-Data-Stats](https://github.com/ShashankPawas/Melanoma-Detection-Assignment/blob/main/Train-Data-Stats.png)
 
+### Test Dataset
 ![Test-Data-Stats](https://github.com/ShashankPawas/Melanoma-Detection-Assignment/blob/main/Test-Data-Stats.png)
 
 ### Sample image from Dataset
