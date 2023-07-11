@@ -52,6 +52,12 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 ### Model Evaluation
 ![Final-Model-Accuracy-Loss-Plot](https://github.com/ShashankPawas/Melanoma-Detection-Assignment/blob/main/Final-Model-Accuracy-Loss-Plot.png)
 
+## Final Observation
+- Based on the Plot and Above Accuracy & Loss rate, we have addressed the Underfitting and Overfitting problem.
+- With Train Accuracy at 61.54 and Validation Accuracy at 61.47, seems we need to improve the accuracy.
+- We have tried using DropOut, CallBack, Data Augumentation and Batch Normalization, which are some of the recommended steps to reduce to the OVerfitting / Underfitting.
+- However, using the model to predict is debatable as the accuracy is still around 61%.
+
 ## References
 Tensor Flow for Keras from https://www.tensorflow.org/api_docs/python/tf/keras/callbacks
 https://www.tensorflow.org/api_docs/python/tf/keras/layers/BatchNormalization
