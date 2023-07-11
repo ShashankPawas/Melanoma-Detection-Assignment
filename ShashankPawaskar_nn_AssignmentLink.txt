@@ -1,0 +1,6 @@
+
+****** Assignment Git-Hub Link *****
+https://github.com/ShashankPawas/Melanoma-Detection-Assignment.git
+
+****** Link for Data Set Mounted on Google Drive *******
+https://drive.google.com/drive/folders/14IeF_j11MJeZ5NJDp3S83cpWjNdrdutX?usp=sharing
